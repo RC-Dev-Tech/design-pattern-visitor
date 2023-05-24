@@ -47,7 +47,7 @@ Visitor模式用於在不更改被訪問的元素的類別的前提下，定義�
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-visitor/blob/main/C%2B%2B/main.cpp) - Visitor Pattern (C++) 
 
 ---
 
